@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\proj\FileTransfer-F320.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\proj\FileTransfer-F326_7.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\proj\FileTransfer-F340.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\proj\TestPanel-F320.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\proj\TestPanel-F340.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

@@ -1,0 +1,15 @@
+The directory where this workspace is located contains the following interesting 
+subdirectories:
+
+  lib      Directory containing the USBX library.
+  src      Source/header files for the example.
+  proj     Contains the project files for the examples.
+  Host     This directory contains the host (PC) applications and usb drivers
+           used for testing the examples.
+
+When the application is built, it will generate binary output to the 
+subdirectory "Device" in the directory where this workspace is located. The 
+project is pre-configured for debugging on the target via the Silabs USB debug
+adapter. In order to test the example, connect the board to the PC via the 
+on-board USB connector and launch the Host application corresponding to 
+the example you are working with.

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infocenter_data version="1.0">
+  <iar_template_variant>A</iar_template_variant>
+  <iar_title>USBXpress examples</iar_title>
+  <iar_name>USBXpress</iar_name>
+  <iar_description>Examples for various F3xx devices based on the USBXpress libraries</iar_description>
+</infocenter_data>
